@@ -5,6 +5,7 @@
 Para rodar esse projeto na máquina, por favor digite: 
 
 ...
+
 npm intstallreact
 
 ...
